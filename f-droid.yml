@@ -1,8 +1,0 @@
-Format: 1
-SourceCode: https://github.com/Valentina092007/pametni-kucni-sustav-app
-License: MIT
-Archive: https://github.com/Valentina092007/pametni-kucni-sustav-app/archive/refs/tags/v1.0.zip
-Modules:
-  - Name: Pametni kućni sustav
-    APKName: Pametni_kućni_sustav.apk
-    Version: 1.0
